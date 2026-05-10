@@ -1,9 +1,10 @@
-# 🇨🇦 OPERATION: CANADA
+# Canada Immigration
+## 🇨🇦 OPERATION: CANADA
 
 **Mission Start:** D+0  
 **Current Day:** D+__  
 
-## Legend
+### Legend
 
 - ☑ = Completed  
 - □ = Pending  
@@ -15,7 +16,7 @@
 
 ---
 
-# INTEL ACQUIRED
+## INTEL ACQUIRED
 
 | Status | Checkpoint | T | A |
 |---|---|---|---|
@@ -28,7 +29,7 @@
 
 ---
 
-# PHASE I — PREP
+## PHASE I — PREP
 
 | Status | Checkpoint | T | A |
 |---|---|---|---|
@@ -42,7 +43,7 @@
 
 ---
 
-# PHASE II — SYSTEM ENTRY
+## PHASE II — SYSTEM ENTRY
 
 | Status | Checkpoint | T | A |
 |---|---|---|---|
@@ -53,9 +54,9 @@
 
 ---
 
-# PHASE III — MULTI-FRONT OFFENSIVE
+## PHASE III — MULTI-FRONT OFFENSIVE
 
-## EE FRONT
+### EE FRONT
 
 | Status | Checkpoint | T | A |
 |---|---|---|---|
@@ -63,7 +64,7 @@
 | □ | Healthcare category readiness | ⬜ D+75 | ⬜ __ |
 | □ | EE active in pool | ⬜ D+75 | ⬜ __ |
 
-## PNP FRONT
+### PNP FRONT
 
 | Status | Checkpoint | T | A |
 |---|---|---|---|
@@ -72,7 +73,7 @@
 | □ | Ontario targeted | ⬜ D+50 | ⬜ __ |
 | □ | PNP monitoring active | ⬜ D+52 | ⬜ __ |
 
-## AIP FRONT
+### AIP FRONT
 
 | Status | Checkpoint | T | A |
 |---|---|---|---|
@@ -83,7 +84,7 @@
 
 ---
 
-# PHASE IV — PRESSURE
+## PHASE IV — PRESSURE
 
 | Status | Checkpoint | T | A |
 |---|---|---|---|
@@ -95,7 +96,7 @@
 
 ---
 
-# PHASE V — BREAKTHROUGH
+## PHASE V — BREAKTHROUGH
 
 **Any one breakthrough can trigger the next phase.**
 
@@ -107,7 +108,7 @@
 
 ---
 
-# PHASE VI — DEPLOYMENT
+## PHASE VI — DEPLOYMENT
 
 | Status | Checkpoint | T | A |
 |---|---|---|---|
@@ -119,7 +120,7 @@
 
 ---
 
-# PHASE VII — CANADA ENTRY
+## PHASE VII — CANADA ENTRY
 
 | Status | Checkpoint | T | A |
 |---|---|---|---|
@@ -131,7 +132,7 @@
 
 ---
 
-# PHASE VIII — ASCENSION
+## PHASE VIII — ASCENSION
 
 | Status | Checkpoint | T | A |
 |---|---|---|---|
@@ -142,6 +143,6 @@
 
 ---
 
-# END STATE
+## END STATE
 
-## LICENSED PHARMACIST — CANADA
+### LICENSED PHARMACIST — CANADA
