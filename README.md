@@ -1,296 +1,147 @@
-# CanadaImmigration
+# 🇨🇦 OPERATION: CANADA
 
-\# 🇨🇦 OPERATION: CANADA
+**Mission Start:** D+0  
+**Current Day:** D+__  
 
+## Legend
 
+- ☑ = Completed  
+- □ = Pending  
+- `T` = Target day  
+- `A` = Actual accomplished day  
+- 🟩 = On time / completed  
+- 🟥 = Missed target  
+- ⬜ = Pending  
 
-\*\*Mission Start:\*\* D+0  
+---
 
-\*\*Current Day:\*\* D+\_\_  
-
-
-
-\## Legend
-
-
-
-\- ☑ = Completed  
-
-\- □ = Pending  
-
-\- `T` = Target day  
-
-\- `A` = Actual accomplished day  
-
-\- 🟩 = On time / completed  
-
-\- 🟥 = Missed target  
-
-\- ⬜ = Pending  
-
-
-
-\---
-
-
-
-\# INTEL ACQUIRED
-
-
+# INTEL ACQUIRED
 
 | Status | Checkpoint | T | A |
-
 |---|---|---|---|
+| ☑ | Immigration system understanding | 🟩 D+__ | 🟩 D+__ |
+| ☑ | EE / PNP / AIP understanding | 🟩 D+__ | 🟩 D+__ |
+| ☑ | PEBC pathway understanding | 🟩 D+__ | 🟩 D+__ |
+| ☑ | Province research completed | 🟩 D+__ | 🟩 D+__ |
+| ☑ | Pathway harvesting completed | 🟩 D+__ | 🟩 D+__ |
+| ☑ | Strategic direction established | 🟩 D+__ | 🟩 D+__ |
 
-| ☑ | Immigration system understanding | 🟩 D+\_\_ | 🟩 D+\_\_ |
+---
 
-| ☑ | EE / PNP / AIP understanding | 🟩 D+\_\_ | 🟩 D+\_\_ |
-
-| ☑ | PEBC pathway understanding | 🟩 D+\_\_ | 🟩 D+\_\_ |
-
-| ☑ | Province research completed | 🟩 D+\_\_ | 🟩 D+\_\_ |
-
-| ☑ | Pathway harvesting completed | 🟩 D+\_\_ | 🟩 D+\_\_ |
-
-| ☑ | Strategic direction established | 🟩 D+\_\_ | 🟩 D+\_\_ |
-
-
-
-\---
-
-
-
-\# PHASE I — PREP
-
-
+# PHASE I — PREP
 
 | Status | Checkpoint | T | A |
-
 |---|---|---|---|
+| □ | IELTS / CELPIP booked | ⬜ D+07 | ⬜ __ |
+| □ | CLB 9 target achieved | ⬜ D+60 | ⬜ __ |
+| □ | Start French basics | ⬜ D+65 | ⬜ __ |
+| □ | Passport validity confirmed | ⬜ D+05 | ⬜ __ |
+| □ | ATS CV completed | ⬜ D+10 | ⬜ __ |
+| □ | Employment letters gathered | ⬜ D+20 | ⬜ __ |
+| □ | Financial war chest initiated | ⬜ D+14 | ⬜ __ |
 
-| □ | IELTS / CELPIP booked | ⬜ D+07 | ⬜ \_\_ |
+---
 
-| □ | CLB 9 target achieved | ⬜ D+60 | ⬜ \_\_ |
-
-| □ | Start French basics | ⬜ D+65 | ⬜ \_\_ |
-
-| □ | Passport validity confirmed | ⬜ D+05 | ⬜ \_\_ |
-
-| □ | ATS CV completed | ⬜ D+10 | ⬜ \_\_ |
-
-| □ | Employment letters gathered | ⬜ D+20 | ⬜ \_\_ |
-
-| □ | Financial war chest initiated | ⬜ D+14 | ⬜ \_\_ |
-
-
-
-\---
-
-
-
-\# PHASE II — SYSTEM ENTRY
-
-
+# PHASE II — SYSTEM ENTRY
 
 | Status | Checkpoint | T | A |
-
 |---|---|---|---|
+| □ | Gateway enrolment | ⬜ D+30 | ⬜ __ |
+| □ | NAPRA ID acquired | ⬜ D+31 | ⬜ __ |
+| □ | PEBC Evaluation submitted | ⬜ D+45 | ⬜ __ |
+| □ | Express Entry profile created | ⬜ D+70 | ⬜ __ |
 
-| □ | Gateway enrolment | ⬜ D+30 | ⬜ \_\_ |
+---
 
-| □ | NAPRA ID acquired | ⬜ D+31 | ⬜ \_\_ |
+# PHASE III — MULTI-FRONT OFFENSIVE
 
-| □ | PEBC Evaluation submitted | ⬜ D+45 | ⬜ \_\_ |
-
-| □ | Express Entry profile created | ⬜ D+70 | ⬜ \_\_ |
-
-
-
-\---
-
-
-
-\# PHASE III — MULTI-FRONT OFFENSIVE
-
-
-
-\## EE FRONT
-
-
+## EE FRONT
 
 | Status | Checkpoint | T | A |
-
 |---|---|---|---|
+| □ | CRS optimization | ⬜ D+75 | ⬜ __ |
+| □ | Healthcare category readiness | ⬜ D+75 | ⬜ __ |
+| □ | EE active in pool | ⬜ D+75 | ⬜ __ |
 
-| □ | CRS optimization | ⬜ D+75 | ⬜ \_\_ |
-
-| □ | Healthcare category readiness | ⬜ D+75 | ⬜ \_\_ |
-
-| □ | EE active in pool | ⬜ D+75 | ⬜ \_\_ |
-
-
-
-\## PNP FRONT
-
-
+## PNP FRONT
 
 | Status | Checkpoint | T | A |
-
 |---|---|---|---|
+| □ | Saskatchewan targeted | ⬜ D+50 | ⬜ __ |
+| □ | Nova Scotia targeted | ⬜ D+50 | ⬜ __ |
+| □ | Ontario targeted | ⬜ D+50 | ⬜ __ |
+| □ | PNP monitoring active | ⬜ D+52 | ⬜ __ |
 
-| □ | Saskatchewan targeted | ⬜ D+50 | ⬜ \_\_ |
-
-| □ | Nova Scotia targeted | ⬜ D+50 | ⬜ \_\_ |
-
-| □ | Ontario targeted | ⬜ D+50 | ⬜ \_\_ |
-
-| □ | PNP monitoring active | ⬜ D+52 | ⬜ \_\_ |
-
-
-
-\## AIP FRONT
-
-
+## AIP FRONT
 
 | Status | Checkpoint | T | A |
-
 |---|---|---|---|
+| □ | AIP employer shortlist created | ⬜ D+25 | ⬜ __ |
+| □ | Sobeys applications sent | ⬜ D+35 | ⬜ __ |
+| □ | Pharmasave applications sent | ⬜ D+35 | ⬜ __ |
+| □ | Follow-up cycle active | ⬜ D+42 | ⬜ __ |
 
-| □ | AIP employer shortlist created | ⬜ D+25 | ⬜ \_\_ |
+---
 
-| □ | Sobeys applications sent | ⬜ D+35 | ⬜ \_\_ |
-
-| □ | Pharmasave applications sent | ⬜ D+35 | ⬜ \_\_ |
-
-| □ | Follow-up cycle active | ⬜ D+42 | ⬜ \_\_ |
-
-
-
-\---
-
-
-
-\# PHASE IV — PRESSURE
-
-
+# PHASE IV — PRESSURE
 
 | Status | Checkpoint | T | A |
-
 |---|---|---|---|
+| □ | 10 applications sent | ⬜ D+40 | ⬜ __ |
+| □ | 25 applications sent | ⬜ D+55 | ⬜ __ |
+| □ | 50 applications sent | ⬜ D+80 | ⬜ __ |
+| □ | Recruiter conversations active | ⬜ D+90 | ⬜ __ |
+| □ | Interview preparation active | ⬜ D+90 | ⬜ __ |
 
-| □ | 10 applications sent | ⬜ D+40 | ⬜ \_\_ |
+---
 
-| □ | 25 applications sent | ⬜ D+55 | ⬜ \_\_ |
+# PHASE V — BREAKTHROUGH
 
-| □ | 50 applications sent | ⬜ D+80 | ⬜ \_\_ |
-
-| □ | Recruiter conversations active | ⬜ D+90 | ⬜ \_\_ |
-
-| □ | Interview preparation active | ⬜ D+90 | ⬜ \_\_ |
-
-
-
-\---
-
-
-
-\# PHASE V — BREAKTHROUGH
-
-
-
-\*\*Any one breakthrough can trigger the next phase.\*\*
-
-
+**Any one breakthrough can trigger the next phase.**
 
 | Status | Checkpoint | T | A |
-
 |---|---|---|---|
+| □ | ITA received | ⬜ D+180 | ⬜ __ |
+| □ | PNP nomination received | ⬜ D+180 | ⬜ __ |
+| □ | AIP job offer received | ⬜ D+120 | ⬜ __ |
 
-| □ | ITA received | ⬜ D+180 | ⬜ \_\_ |
+---
 
-| □ | PNP nomination received | ⬜ D+180 | ⬜ \_\_ |
-
-| □ | AIP job offer received | ⬜ D+120 | ⬜ \_\_ |
-
-
-
-\---
-
-
-
-\# PHASE VI — DEPLOYMENT
-
-
+# PHASE VI — DEPLOYMENT
 
 | Status | Checkpoint | T | A |
-
 |---|---|---|---|
+| □ | Medicals | ⬜ D+200 | ⬜ __ |
+| □ | Biometrics | ⬜ D+205 | ⬜ __ |
+| □ | Police clearance | ⬜ D+205 | ⬜ __ |
+| □ | Proof of funds finalized | ⬜ D+210 | ⬜ __ |
+| □ | PR approval / COPR | ⬜ D+300 | ⬜ __ |
 
-| □ | Medicals | ⬜ D+200 | ⬜ \_\_ |
+---
 
-| □ | Biometrics | ⬜ D+205 | ⬜ \_\_ |
-
-| □ | Police clearance | ⬜ D+205 | ⬜ \_\_ |
-
-| □ | Proof of funds finalized | ⬜ D+210 | ⬜ \_\_ |
-
-| □ | PR approval / COPR | ⬜ D+300 | ⬜ \_\_ |
-
-
-
-\---
-
-
-
-\# PHASE VII — CANADA ENTRY
-
-
+# PHASE VII — CANADA ENTRY
 
 | Status | Checkpoint | T | A |
-
 |---|---|---|---|
+| □ | SIN acquired | ⬜ D+310 | ⬜ __ |
+| □ | Bank account opened | ⬜ D+311 | ⬜ __ |
+| □ | Housing secured | ⬜ D+320 | ⬜ __ |
+| □ | Phone line active | ⬜ D+310 | ⬜ __ |
+| □ | First Canadian employment | ⬜ D+340 | ⬜ __ |
 
-| □ | SIN acquired | ⬜ D+310 | ⬜ \_\_ |
+---
 
-| □ | Bank account opened | ⬜ D+311 | ⬜ \_\_ |
-
-| □ | Housing secured | ⬜ D+320 | ⬜ \_\_ |
-
-| □ | Phone line active | ⬜ D+310 | ⬜ \_\_ |
-
-| □ | First Canadian employment | ⬜ D+340 | ⬜ \_\_ |
-
-
-
-\---
-
-
-
-\# PHASE VIII — ASCENSION
-
-
+# PHASE VIII — ASCENSION
 
 | Status | Checkpoint | T | A |
-
 |---|---|---|---|
+| □ | PEBC Evaluating Exam | ⬜ D+420 | ⬜ __ |
+| □ | PEBC Qualifying Exams | ⬜ D+520 | ⬜ __ |
+| □ | Provincial licensing | ⬜ D+600 | ⬜ __ |
+| □ | Licensed Pharmacist status | ⬜ D+650 | ⬜ __ |
 
-| □ | PEBC Evaluating Exam | ⬜ D+420 | ⬜ \_\_ |
+---
 
-| □ | PEBC Qualifying Exams | ⬜ D+520 | ⬜ \_\_ |
+# END STATE
 
-| □ | Provincial licensing | ⬜ D+600 | ⬜ \_\_ |
-
-| □ | Licensed Pharmacist status | ⬜ D+650 | ⬜ \_\_ |
-
-
-
-\---
-
-
-
-\# END STATE
-
-
-
-\## LICENSED PHARMACIST — CANADA
-
+## LICENSED PHARMACIST — CANADA
