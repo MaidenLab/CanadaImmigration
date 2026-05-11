@@ -21,12 +21,13 @@
 
 | Status | Checkpoint | T | A |
 |---|---|---|---|
-| ☑ | Immigration system understanding | 🟩 D+__ | 🟩 D+__ |
-| ☑ | EE / PNP / AIP understanding | 🟩 D+__ | 🟩 D+__ |
-| ☑ | PEBC pathway understanding | 🟩 D+__ | 🟩 D+__ |
-| ☑ | Province research completed | 🟩 D+__ | 🟩 D+__ |
-| ☑ | Pathway harvesting completed | 🟩 D+__ | 🟩 D+__ |
-| ☑ | Strategic direction established | 🟩 D+__ | 🟩 D+__ |
+| :heavy_check_mark: | Immigration system understanding | 🟩 D+__ | 🟩 D+__ |
+| :heavy_check_mark: | EE / PNP / AIP understanding | 🟩 D+__ | 🟩 D+__ |
+| :heavy_check_mark: | PEBC pathway understanding | 🟩 D+__ | 🟩 D+__ |
+| :heavy_check_mark: | Province research completed | 🟩 D+__ | 🟩 D+__ |
+| :heavy_check_mark: | Pathway harvesting completed | 🟩 D+__ | 🟩 D+__ |
+| :heavy_check_mark: | Strategic direction established | 🟩 D+__ | 🟩 D+__ |
+| :heavy_check_mark: | Set up International Payment medium | 🟩 D+__ | 🟩 D+__ |
 
 ---
 
@@ -34,7 +35,7 @@
 
 | Status | Checkpoint | T | A |
 |---|---|---|---|
-| □ | IELTS / CELPIP booked | ⬜ D+07 | ⬜ __ |
+| □ | First Lang test booked | ⬜ D+07 | ⬜ __ |
 | □ | CLB 9 target achieved | ⬜ D+60 | ⬜ __ |
 | □ | Start French basics | ⬜ D+65 | ⬜ __ |
 | □ | Passport validity confirmed | ⬜ D+05 | ⬜ __ |
