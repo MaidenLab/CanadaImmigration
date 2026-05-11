@@ -14,6 +14,7 @@
 - 🟥 = Missed target  
 - ⬜ = Pending  
 
+
 ---
 
 ## INTEL ACQUIRED
@@ -50,6 +51,7 @@
 | □ | Gateway enrolment | ⬜ D+30 | ⬜ __ |
 | □ | NAPRA ID acquired | ⬜ D+31 | ⬜ __ |
 | □ | PEBC Evaluation submitted | ⬜ D+45 | ⬜ __ |
+| □ | PEBC ECA Acquired | ⬜ D+X | ⬜ __ |
 | □ | Express Entry profile created | ⬜ D+70 | ⬜ __ |
 
 ---
