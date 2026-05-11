@@ -1,12 +1,12 @@
 # Canada Immigration
 ## 🇨🇦 OPERATION: CANADA
 
-**Mission Start:** D+0  
+**Mission Start:** March 5 2026
 **Current Day:** D+__  
 
 ### Legend
 
-- ☑ = Completed  
+- :heavy_check_mark: = Completed  
 - □ = Pending  
 - `T` = Target day  
 - `A` = Actual accomplished day  
@@ -35,6 +35,7 @@
 
 | Status | Checkpoint | T | A |
 |---|---|---|---|
+| □ | First Lang course bought | ⬜ D+07 | ⬜ __ |
 | □ | First Lang test booked | ⬜ D+07 | ⬜ __ |
 | □ | CLB 9 target achieved | ⬜ D+60 | ⬜ __ |
 | □ | Start French basics | ⬜ D+65 | ⬜ __ |
@@ -49,7 +50,7 @@
 
 | Status | Checkpoint | T | A |
 |---|---|---|---|
-| □ | Gateway enrolment | ⬜ D+30 | ⬜ __ |
+| :heavy_check_mark: | Gateway enrolment | 🟩 D+30 | 🟩 __ |
 | □ | NAPRA ID acquired | ⬜ D+31 | ⬜ __ |
 | □ | PEBC Evaluation submitted | ⬜ D+45 | ⬜ __ |
 | □ | PEBC ECA Acquired | ⬜ D+X | ⬜ __ |
