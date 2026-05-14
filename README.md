@@ -35,7 +35,7 @@
 
 | Status | Checkpoint | T | A |
 |---|---|---|---|
-| □ | First Lang course bought | ⬜ D+07 | ⬜ __ |
+| □ | First Lang course bought | 🟩 D+07 | 🟩 13/5/26 |
 | □ | First Lang test booked | ⬜ D+07 | ⬜ __ |
 | □ | CLB 9 target achieved | ⬜ D+60 | ⬜ __ |
 | □ | Start French basics | ⬜ D+65 | ⬜ __ |
