@@ -101,9 +101,7 @@
 | □ | 10 applications sent | ⬜ D+40 | ⬜ __ |
 | □ | 25 applications sent | ⬜ D+55 | ⬜ __ |
 | □ | 50 applications sent | ⬜ D+80 | ⬜ __ |
-----------------------------------------------------------------
 | □ | **1000 applications sent** | ⬜ __ | Hope not to reach this
-----------------------------------------------------------------
 | □ | Recruiter conversations active | ⬜ D+90 | ⬜ __ |
 | □ | Interview preparation active | ⬜ D+90 | ⬜ __ |
 
