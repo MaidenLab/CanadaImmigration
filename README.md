@@ -107,6 +107,12 @@
 
 ---
 
+### Sanity check
+| Status | Checkpoint | T | A |
+|---|---|---|---|
+| □ | Contact local immigration specialist | ⬜ D+40 | ⬜ __ |
+| □ | Contact online immigration specialist | ⬜ D+40 | ⬜ __ |
+
 ## PHASE V — BREAKTHROUGH
 
 **Any one breakthrough can trigger the next phase.**
